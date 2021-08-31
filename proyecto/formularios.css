@@ -1,0 +1,77 @@
+body{
+    /* Safari 4-5, Chrome 1-9 */
+    /*  background: -webkit-gradient(radial, center center, 0, center center, 460, from(#063970), to(#382f2f));
+  
+    /* Safari 5.1+, Chrome 10+ */
+/*      background: -webkit-radial-gradient(circle, #063970 , #382f2f);
+  
+    /* Firefox 3.6+ */
+      /*background: -moz-radial-gradient(circle, #063970 , #382f2f);
+  
+    /* IE 10 */
+      /*background: -ms-radial-gradient(circle, #063970 , #382f2f);
+      /*height:600px;*/
+  }
+  .container {
+    width: inherit;
+  }
+  .panel-heading{
+    max-width: 100%;
+    width: 1000px;
+    position: relative;
+    display: relative;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  .panel-title font {
+    color: #000;
+
+  }
+  .panel-body{
+    width: inherit;
+    max-width: 100%;
+
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+  
+  }
+  .label{
+    
+    margin-top: auto;
+    margin-bottom: auto;
+  
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+  
+  }
+  .centered-form{
+    
+    margin: auto;
+    float:none;
+  }
+  
+  .centered-form .panel{
+      background: white;
+  }
+  
+  
+  label.label-floatlabel {
+      font-weight: bold;
+      font-size: 11px;
+      
+      
+  }
+
+  .panel-default{
+    max-width: 100%;
+  }
+  
